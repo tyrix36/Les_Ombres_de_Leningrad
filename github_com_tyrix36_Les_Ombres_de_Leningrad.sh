@@ -6,7 +6,7 @@ cd "D:\Dropbox\01_tout\www_inetpub\UwAmp\www\home\amp\amp-coc-story"
 git add .
 
 #git config --global user.email "tyrix36+github@gmail.com"
-#git config --global user.name "tyrix36"
+git config --global user.name "tyrix36"
 
 #git commit -m "first commit"
 
