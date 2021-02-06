@@ -15,7 +15,7 @@ git commit -m "commit 09h50"
 
 git branch -M main
 # git remote add origin https://github.com/tyrix36/Les_Ombres_de_Leningrad.git
-# git push -u origin main
+git push -u origin main
 
 #git checkout dev
 #git add .
